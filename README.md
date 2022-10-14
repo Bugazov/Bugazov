@@ -1,37 +1,44 @@
-## Приветствую вас! Меня зовут Ислам и я Frontend-разработчик
+<h1 align='center'> Hello there 👋 My name is Islam, I'm 19 y.o. Frontend Developer with one year of experience in web development. </h1>
 
-### Стек технологий с которыми я работаю:
+---
 
-<br/>
+### My main tech stack:
+
 <div>
-  <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" href="https://html.com/" />
- <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="photoReact" />
-  <img align="left" width=40px src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
-<img align="left" width=40px src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
-  <img align="left" width=40px  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
-   <img align="left" width=40px src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
-     <img align="left" width=40px src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" alt="photoJs" />
-      <img align="left" width=40px src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
-  <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
-  <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+ <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
+ <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
+ <img alt="Redux-Hooks" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
+ <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
+ <img alt="Redux-Devtools" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
+ <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose">
+ <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img alt="CSS 3" src="https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge">
+ <img alt="CSS 3" src="https://img.shields.io/badge/-Webpack-blue?style=for-the-badge">
+ <img alt="CSS 3" src="https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge">
 </div>
 
-<br/>
-<br/>
-<br/>
-
-<ul>
-  <li>HTML5, CSS3, JavaScript ES6</li>
-  <li>React</li>
-  <li>React Redux</li>
-  <li>React router dom v6</li>
-  <li>Webpack</li>
-  <li>Postman</li>
-  <li>MongoDB</li>
-  <li>ExpressJS, NodeJS, Mongoose</li>
-  <ul/>
+---
 
 ### Мои проекты:
 
-- Продажа ПК с возможностью сборки <a href="https://github.com/Sanmov13/team-MadePC-Front">Frontend<a/> || <a href="https://github.com/Sanmov13/team-madePC-back">Backend<a/>
-- Сайт кинотеатра <a href="https://github.com/Sanmov13/project-forest-front">Frontend<a/> || <a href="https://github.com/Sanmov13/project-forest-back">Backend<a/>
+- MadePC (Сборка ПК) - 
+  <a href="https://github.com/Bugazov/team-MadePC-Front">Code-Front</a> |
+  <a href= "https://github.com/Bugazov/team-madePC-back">Code-Back</a> 
+
+- Online Kinoteatr (Онлайн кинотеатр) -
+  <a href="https://github.com/Bugazov/team_project_kinoteatr_front">Code-Front</a> |
+  <a href="https://github.com/Bugazov/team_project_kinoteatr_backend">Code-Back</a> 
+
+- Freelance-site (Фриланас-сайт) - 
+  <a href="https://github.com/Bugazov/freelance-front">Code-Front</a> |
+  <a href="https://github.com/Bugazov/freelance-back">Code-Back</a> 
+
+---
+
+### Как вы можете со мной связаться:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/bugazov)
