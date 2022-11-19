@@ -23,22 +23,6 @@
 
 ---
 
-### Мои проекты:
-
-- MadePC (Сборка ПК) - 
-  <a href="https://github.com/Bugazov/team-MadePC-Front">Code-Front</a> |
-  <a href= "https://github.com/Bugazov/team-madePC-back">Code-Back</a> 
-
-- Online Kinoteatr (Онлайн кинотеатр) -
-  <a href="https://github.com/Bugazov/team_project_kinoteatr_front">Code-Front</a> |
-  <a href="https://github.com/Bugazov/team_project_kinoteatr_backend">Code-Back</a> 
-
-- Freelance-site (Фриланас-сайт) - 
-  <a href="https://github.com/Bugazov/freelance-front">Code-Front</a> |
-  <a href="https://github.com/Bugazov/freelance-back">Code-Back</a> 
-
----
-
 ### Как вы можете со мной связаться:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/bugazov)
