@@ -1,4 +1,4 @@
-<h1 align='center'> Hello there 👋 My name is Islam, I'm 19 y.o. Frontend Developer with one year of experience in web development. </h1>
+<h1 align='center'> Hello there 👋 My name is Islam </h1>
 
 ---
 
